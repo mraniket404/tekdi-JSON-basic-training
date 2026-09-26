@@ -1,0 +1,15 @@
+{
+  "name": "Aniket",
+  "age": 22,
+  "student": true,
+  "address": null,
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js"
+  ],
+  "college": {
+    "name": "DBATU",
+    "course": "B.Tech CSE"
+  }
+}
