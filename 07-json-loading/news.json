@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript JSON Tutorial",
+    "category": "Programming"
+  },
+  {
+    "id": 2,
+    "title": "Learn Fetch API",
+    "category": "JavaScript"
+  },
+  {
+    "id": 3,
+    "title": "Understanding REST API",
+    "category": "Web Development"
+  }
+]
