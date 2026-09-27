@@ -1,0 +1,24 @@
+{
+  "name": "Aniket",
+  "age": 22,
+  "student": true,
+  "middleName": null,
+
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js"
+  ],
+
+  "address": {
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+
+  "education": {
+    "college": "DBATU",
+    "course": "B.Tech CSE",
+    "year": 4
+  }
+}
